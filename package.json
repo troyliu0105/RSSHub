@@ -106,7 +106,7 @@
     "ioredis": "5.2.3",
     "ip-regex": "4.3.0",
     "is-localhost-ip": "2.0.0",
-    "jsdom": "20.0.0",
+    "jsdom": "20.0.1",
     "json-bigint": "1.0.0",
     "json5": "2.2.1",
     "koa": "2.13.4",
@@ -138,7 +138,7 @@
     "torrent-search-api": "2.1.4",
     "tough-cookie": "4.1.2",
     "tunnel": "0.0.6",
-    "twitter-api-v2": "1.12.5",
+    "twitter-api-v2": "1.12.8",
     "winston": "3.8.2",
     "xml2js": "0.4.23"
   },
